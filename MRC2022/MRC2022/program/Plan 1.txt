@@ -1,0 +1,31 @@
+//plan 1 (start kuning)
+  // Misi M01
+  run(100, dimanapun, 100, 100, 100, 100, 50); //maju
+  run(100, fr, 100, -150, 180, 100, 50); //belok kanan
+  run(100, dimanapun, -100, -100, 100, 100, 0); //mundur
+  run(100, fr, 100, -150, 280, 100, 0); //putar balik
+  run(100, dimanapun, 100, 100, 100, 100, 50); //maju
+
+  //Misi M02
+  run(100, fr, 100, -150, 180, 100, 50); //belok kanan berhenti sebelum pin
+
+  //misi M03
+  run(100, dimanapun, 100, 100, 100, 100, 50); maju dorong kubus
+
+  //misi M04
+============================================================================
+  //plan 1 (start hijau)
+  // Misi M01
+  run(100, dimanapun, 100, 100, 100, 100, 50); //maju
+  run(100, fl, -150, 100, 180, 100, 50); //belok kiri
+  run(100, dimanapun, -100, -100, 100, 100, 0); //mundur
+  run(100, fr, 100, -150, 280, 100, 0); //putar balik
+  run(100, dimanapun, 100, 100, 100, 100, 50); //maju
+
+  //Misi M02
+  run(100, fl, -150, 100, 180, 100, 50); //belok kiri berhenti sebelum pin
+
+  //misi M03
+  run(100, dimanapun, 100, 100, 100, 100, 50); maju dorong kubus
+
+  //misi M04
